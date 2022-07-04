@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio_react_2022/static/css/main.4ed31892.css",
+    "main.js": "/portfolio_react_2022/static/js/main.9c997106.js",
+    "static/media/nhero.jpg": "/portfolio_react_2022/static/media/nhero.182b2922177e43cf5133.jpg",
+    "static/media/banner-man2.png": "/portfolio_react_2022/static/media/banner-man2.60054a8b7bfa351bb0f3.png",
+    "static/media/p1.webp": "/portfolio_react_2022/static/media/p1.52f0f3a89c11044c2037.webp",
+    "static/media/p5.webp": "/portfolio_react_2022/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/mongo.png": "/portfolio_react_2022/static/media/mongo.b473c1c113167cdfe8b6.png",
+    "static/media/portfolio.svg": "/portfolio_react_2022/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/p3.webp": "/portfolio_react_2022/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/contact.svg": "/portfolio_react_2022/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/p4.webp": "/portfolio_react_2022/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/portfolio_react_2022/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/p2.webp": "/portfolio_react_2022/static/media/p2.987c883e6e66df8a1228.webp",
+    "static/media/about.svg": "/portfolio_react_2022/static/media/about.70a8290c961c47c208b5.svg",
+    "index.html": "/portfolio_react_2022/index.html",
+    "main.4ed31892.css.map": "/portfolio_react_2022/static/css/main.4ed31892.css.map",
+    "main.9c997106.js.map": "/portfolio_react_2022/static/js/main.9c997106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed31892.css",
+    "static/js/main.9c997106.js"
+  ]
+}
