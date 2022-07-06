@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_react_2022/static/css/main.4ed31892.css",
-    "main.js": "/portfolio_react_2022/static/js/main.9c997106.js",
+    "main.js": "/portfolio_react_2022/static/js/main.528f5e63.js",
     "static/media/nhero.jpg": "/portfolio_react_2022/static/media/nhero.182b2922177e43cf5133.jpg",
     "static/media/banner-man2.png": "/portfolio_react_2022/static/media/banner-man2.60054a8b7bfa351bb0f3.png",
     "static/media/p1.webp": "/portfolio_react_2022/static/media/p1.52f0f3a89c11044c2037.webp",
@@ -16,10 +16,10 @@
     "static/media/about.svg": "/portfolio_react_2022/static/media/about.70a8290c961c47c208b5.svg",
     "index.html": "/portfolio_react_2022/index.html",
     "main.4ed31892.css.map": "/portfolio_react_2022/static/css/main.4ed31892.css.map",
-    "main.9c997106.js.map": "/portfolio_react_2022/static/js/main.9c997106.js.map"
+    "main.528f5e63.js.map": "/portfolio_react_2022/static/js/main.528f5e63.js.map"
   },
   "entrypoints": [
     "static/css/main.4ed31892.css",
-    "static/js/main.9c997106.js"
+    "static/js/main.528f5e63.js"
   ]
 }
