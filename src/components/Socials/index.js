@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import icons
-import { social } from '../data';
+import { social } from './../../data';
 
 const Socials = () => {
   return (

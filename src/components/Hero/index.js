@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import woman image
-import ManImg from '../assets/img/banner-man2.png';
+import ManImg from './../../assets/img/banner-man2.png';
 
 import { Link } from 'react-scroll';
 

@@ -1,12 +1,15 @@
 import React from 'react';
 
 // import navigation data
-import { navigation } from '../data';
+import { navigation } from './../../data';
 
 // import Link
 import { Link } from 'react-scroll';
 
+import { Link as LinkRouter } from 'react-router-dom';
+
 const Nav = () => {
+
   return (
     <nav>
       <ul className='flex space-x-8 capitalize text-[15px]'>
@@ -30,6 +33,7 @@ const Nav = () => {
             </li>
           );
         })}
+        <LinkRouter to='/blog' >Blog</LinkRouter>
       </ul>
     </nav>
   );

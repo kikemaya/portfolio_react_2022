@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import skill data
-import { skills } from '../data';
+import { skills } from './../../data';
 
 const Skills = () => {
   return (

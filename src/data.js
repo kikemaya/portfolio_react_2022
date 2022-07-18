@@ -12,12 +12,12 @@ import AcatlanIcon from './assets/img/brands/acatlan.png';
 import DevF from './assets/img/brands/devf.png';
 
 // projects images
-import Project1 from './assets/img/projects/p1.webp';
-import Project2 from './assets/img/projects/p2.webp';
-import Project3 from './assets/img/projects/p3.webp';
-import Project4 from './assets/img/projects/p4.webp';
-import Project5 from './assets/img/projects/p5.webp';
-import Project6 from './assets/img/projects/p6.webp';
+// import Project1 from './assets/img/projects/p1.webp';
+// import Project2 from './assets/img/projects/p2.webp';
+// import Project3 from './assets/img/projects/p3.webp';
+// import Project4 from './assets/img/projects/p4.webp';
+// import Project5 from './assets/img/projects/p5.webp';
+// import Project6 from './assets/img/projects/p6.webp';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -28,6 +28,12 @@ import SkillImg5 from './assets/img/skills/nodejs.png';
 import SkillImg6 from './assets/img/skills/mongo.png';
 import SkillImg7 from './assets/img/skills/git.png';
 import SkillImg8 from './assets/img/skills/figma.png';
+
+//blog test images 
+import testImg1 from './assets/img/jscript.png';
+
+const timeElapsed = Date.now()
+const today = new Date(timeElapsed)
 
 // navigation
 export const navigation = [
@@ -78,44 +84,44 @@ export const brands = [
 ];
 
 // projects
-export const projectsData = [
-  {
-    id: '1',
-    image: Project1,
-    name: 'project name 1',
-    category: 'UI/UX design',
-  },
-  {
-    id: '2',
-    image: Project2,
-    name: 'project name 2',
-    category: 'web development',
-  },
-  {
-    id: '3',
-    image: Project3,
-    name: 'project name 3',
-    category: 'UI/UX design',
-  },
-  {
-    id: '4',
-    image: Project4,
-    name: 'project name 4',
-    category: 'branding',
-  },
-  {
-    id: '5',
-    image: Project5,
-    name: 'project name 5',
-    category: 'web development',
-  },
-  {
-    id: '6',
-    image: Project6,
-    name: 'project name 6',
-    category: 'web development',
-  },
-];
+// export const projectsData = [
+//   {
+//     id: '1',
+//     image: Project1,
+//     name: 'To do',
+//     // category: 'UI/UX design',
+//   },
+//   {
+//     id: '2',
+//     image: Project2,
+//     name: 'Weather Api',
+//     // category: 'web development',
+//   },
+//   {
+//     id: '3',
+//     image: Project3,
+//     name: 'Contact List',
+//     // category: 'UI/UX design',
+//   },
+//   {
+//     id: '4',
+//     image: Project4,
+//     name: 'Quiz',
+//     // category: 'branding',
+//   },
+//   {
+//     id: '5',
+//     image: Project5,
+//     name: 'Rock Paper Scissors',
+//     // category: 'web development',
+//   },
+//   {
+//     id: '6',
+//     image: Project6,
+//     name: 'Memory Game',
+//     // category: 'web development',
+//   },
+// ];
 
 // skills
 export const skills = [
@@ -160,3 +166,31 @@ export const contact = [
     description: 'Working from home(:',
   },
 ];
+
+
+// navigation
+export const blog_notes = [
+  {
+    id: 1,
+    title: 'Emmet',
+    date: today.toDateString(),
+    src: testImg1,
+    text: 'Hola, soy un articulo #1'
+  },
+  {
+    id: 2,
+    title: 'Markdown',
+    date: today.toDateString(),
+    src: testImg1,
+    text: 'Hola, soy un articulo #2'
+  },
+  {
+    id: 3,
+    title: 'Reactividad en JavaScript',
+    date: today.toDateString(),
+    src: testImg1,
+    text: 'Hola, soy un articulo #3'
+  },
+];
+
+

@@ -23,6 +23,7 @@ const App = () => {
       <Footer />
       <BackTopBtn />
     </div>
+
   );
 };
 

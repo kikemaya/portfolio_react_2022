@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-scroll';
 
 // import img
-import Image from '../assets/img/nhero.jpg';
+import Image from './../../assets/img/nhero.jpg';
 
 const About = () => {
   return (

@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply font-body text-paragraph leading-6 bg-gray-200;
+    @apply font-body text-paragraph leading-6 bg-primary;
   }
   h1,
   h2,
@@ -41,4 +41,8 @@
   .active {
     @apply text-accent;
   }
+}
+
+.Label-input {
+  @apply block text-white text-sm font-bold mb-2;
 }

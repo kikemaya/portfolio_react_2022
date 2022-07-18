@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
 
 // import components
-import Logo from '../assets/img/logo.png';
-import Nav from '../components/Nav';
-import NavMobile from '../components/NavMobile';
-import Socials from './Socials';
+import Logo from './../../assets/img/logo.png';
+import Nav from './../../components/Nav';
+import NavMobile from './../../components/Nav/NavMobile';
+import Socials from './../Socials';
 
 const Header = () => {
   const [bg, setBg] = useState(false);

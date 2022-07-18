@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import contact data
-import { contact } from '../data';
+import { contact } from './../../data';
 
 import emailjs from '@emailjs/browser';
 

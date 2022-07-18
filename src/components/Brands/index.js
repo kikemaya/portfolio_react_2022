@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import brands data
-import { brands } from '../data';
+import { brands } from './../../data';
 
 const Brands = () => {
   return (
